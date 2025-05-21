@@ -1,15 +1,5 @@
 Simple steno keyboard with 6x2 on left and right, and 2x1 thumb clusters.
 
-## TODO
-
-- [x] Better position the reset button on the PCB
-- [x] Route PCB
-- [x] Make case with proper cutouts for microcontroller, etc.
-- [x] Find a way to mount the PCB to the case
-- [x] Add more spacing between the case edge and the PCB
-- [x] Test case with actual screws and inserts (with mock PCB)
-- [x] Move the standoffs such that there are two right next to each other so that the case can be split down the middle for printing
-
 ## BOM
 
 Best to buy from [VOEC-registered](https://www.skatteetaten.no/person/avgifter/kjop-fra-utlandet/nettbutikker-og-e-markedsplasser-som-er-registrert-i-voec-registeret/) stores, to avoid paying extra for import.
